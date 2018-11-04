@@ -9,7 +9,7 @@
 <html>
   <head>
     <title>$Title$</title>
-    <!--<meta http-equiv="refresh" content="0;url=<%=request.getContextPath()%>/user/user.html">-->
+    <meta http-equiv="refresh" content="0;url=/user/register.html">
   </head>
   <body>
   <a href="/user/register.html">123</a>

@@ -5,9 +5,8 @@
 <head>
     <title>CreateSuccess</title>
 </head>
-<c:set var="user" value="${user}"/>
 <body>
-    恭喜！用户${user.username}创建成功！
+恭喜！用户<font color="red">${user.username}</font>创建成功！
 </body>
 </html>
 

@@ -6,8 +6,8 @@
     </head>
     <body>
         <form action="<c:url  value="/user.html"/>" method="post">
-            Username: <input type="text" /><br>
-            Password: <input type="password" /><br>
+            Username: <input type="text" name="username"/><br>
+            Password: <input type="password" name="password"/><br>
             Register: <input type="submit" value="Register"/><br>
         </form>
     </body>
